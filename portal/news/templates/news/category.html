@@ -1,18 +1,19 @@
 {% extends 'base.html' %}
 
 {% block title %}
-{{ title }} :: {{ block.super }}
+{{ category.title }}
 {% endblock %}
 
 {% block sidebar %}
-{% include 'inc/_sidebar.html' %}
+    {% include 'inc/_sidebar.html' %}
 {% endblock %}
 
 {% block content %}
               {% for foo in news %}
                   <div class="card mb-3">
                       <div class="card-header">
-                          Категория: <a href="{{ foo.category.get_absolute_url }}">{{ foo.category }}</a>
+                          {{ foo.my_func }}
+                          Категория:<a href="{% url 'category' foo.category.pk %}">{{ foo.category }}</a>
                       </div>
                       <div class="card-body">
                         <div class="card">
@@ -26,7 +27,7 @@
                                 {% autoescape off %}
                                 <p class="card-text">{{ foo.content }}</p>
                                 {% endautoescape %}
-                            <a href="{{foo.get_absolute_url}}" class="btn btn-primary">Read more...</a>
+                            <a href="{{foo.get_absolute_url }}" class="btn btn-primary">Read more...</a>
                         </div>
                         </div>
 
@@ -42,3 +43,4 @@
 
 
 {% endblock %}
+</html>

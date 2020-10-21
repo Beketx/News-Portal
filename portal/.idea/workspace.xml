@@ -21,12 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="143657ca-7420-4499-ad75-8358186f49d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/templates/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/templates/news/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portal/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/inc/_nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/inc/_nav.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +38,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
+        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -61,6 +61,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="portal" type="Python.DjangoServer" factoryName="Django server">
@@ -105,7 +107,8 @@
       <workItem from="1602700488234" duration="3600000" />
       <workItem from="1602794990024" duration="6443000" />
       <workItem from="1603094209954" duration="470000" />
-      <workItem from="1603181288375" duration="4568000" />
+      <workItem from="1603181288375" duration="4911000" />
+      <workItem from="1603261341718" duration="3945000" />
     </task>
     <servers />
   </component>
@@ -125,22 +128,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1603185684617">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1603262806247">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603185684617" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1603185684617">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603262806247" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1603262806246">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603185684617" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1603185684616">
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603262806246" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1603262806246">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603185684616" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1603185684617">
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603262806246" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1603262806247">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603185684617" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603262806247" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1603264495625">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603264495625" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1602613733534">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

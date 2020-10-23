@@ -16,7 +16,7 @@ from django.core.exceptions import ValidationError
 #                                       queryset=Category.objects.all(),
 #                                       widget=forms.Select(attrs={"class":"form-control"}))
 
-class NewsForm(forms.ModelForm):
+class  NewsForm(forms.ModelForm):
     class Meta:
         model = News
         fields = '__all__'

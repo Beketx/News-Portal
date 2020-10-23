@@ -24,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/templates/news/view_news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/templates/news/view_news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/views.py" afterDir="false" />
     </list>
@@ -109,7 +110,8 @@
       <workItem from="1603094209954" duration="470000" />
       <workItem from="1603181288375" duration="4911000" />
       <workItem from="1603261341718" duration="4265000" />
-      <workItem from="1603347502506" duration="2134000" />
+      <workItem from="1603347502506" duration="2411000" />
+      <workItem from="1603442203301" duration="2115000" />
     </task>
     <servers />
   </component>
@@ -129,30 +131,34 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1603348549374">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1603444462191">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603348549374" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1603348549373">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603444462191" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603443196924" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1603444462190">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603348549373" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1603348549373">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603444462190" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603443196924" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1603444462189">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603348549373" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1603348549374">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603444462189" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603443196923" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1603444462190">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603348549374" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603444462190" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603443196924" />
     <state x="229" y="100" key="SettingsEditor" timestamp="1603264495625">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603264495625" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1602613733534">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1603442681529">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1602613733534" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1603442681529" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

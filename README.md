@@ -33,3 +33,7 @@ class HomeNews(ListView):
   def clean_title:
 
   re.match(pattern, string)
+
+  23/2020
+  Forms CreateView Detail
+  
